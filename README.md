@@ -132,7 +132,7 @@ Caso queira ver mais sobre, acessa meu [LinkedIn](https://www.linkedin.com/in/jo
 
 ### 📊 Estatísticas
 
-<p> 
+
 <img 
     align="left" 
     alt="GitHub Stats"
@@ -146,7 +146,7 @@ Caso queira ver mais sobre, acessa meu [LinkedIn](https://www.linkedin.com/in/jo
       align="left" 
       alt="GitHub Stats"
       widght="100"
-      height="200" 
+      height="250" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorduarte01&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
   
