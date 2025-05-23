@@ -147,6 +147,6 @@ Caso queira ver mais sobre, acessa meu [LinkedIn](https://www.linkedin.com/in/jo
       alt="GitHub Stats"
       widght="200"
       height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorduarte01&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorduarte01&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
   />
   
