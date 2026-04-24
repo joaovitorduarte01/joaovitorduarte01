@@ -6,8 +6,6 @@ Sou desenvolvedor focado em APIs, automação e integração entre sistemas. Atu
 
 Tenho experiência prática com sistemas em produção, incluindo integrações com chatbots, automações de processos e ambientes Linux com Docker.
 
-Gosto de trabalhar com código limpo, soluções eficientes e sistemas que realmente fazem diferença no dia a dia.
-
 ---
 
 ### 🚀 Tecnologias e Ferramentas
