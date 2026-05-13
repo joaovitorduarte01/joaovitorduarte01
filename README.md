@@ -33,11 +33,15 @@ Tenho experiência prática com sistemas em produção, incluindo integrações 
 
 ### 📊 Estatísticas
 
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=joaovitorduarte01&theme=tokyonight"/>
+<div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorduarte01&layout=compact&theme=tokyonight"/>
-</p>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=joaovitorduarte01&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorduarte01&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
