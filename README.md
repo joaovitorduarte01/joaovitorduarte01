@@ -39,7 +39,7 @@ Tenho experiência prática com sistemas em produção, incluindo integrações 
 
 <br><br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorduarte01&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorduarte01&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
